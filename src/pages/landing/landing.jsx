@@ -41,9 +41,17 @@ export default function Landing() {
           </span>
         </div>
       </section>
-      <section id="landing-page-4"></section>
+
+      <section id="landing-page-4">
+        <span></span>
+        <span></span>
+      </section>
+
       <section id="landing-page-5"></section>
       <section id="landing-page-6"></section>
+      <section id="landing-page-7"></section>
+      <section id="landing-page-8"></section>
+      <section id="landing-page-9"></section>
     </main>
   );
 }

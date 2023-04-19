@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Dongle:wght@300&display=swap");
-@import url('https://fonts.googleapis.com/css2?family=Schibsted+Grotesk&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Schibsted+Grotesk&display=swap");
 
 * {
   padding: 0;
@@ -37,6 +37,7 @@ body {
   --primary: #ffffff;
   --secondary: #c8dfbf;
   --tertiary: #0f2b05;
+  --fourth: rgb(200, 223, 191);
   --font-size: 16px;
 }
 
