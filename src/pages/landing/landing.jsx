@@ -1,5 +1,6 @@
 import "./landing.css";
 import React, { useState, useEffect } from "react";
+import image from "../../assets/image1.jpg";
 
 export default function Landing() {
   return (
@@ -47,8 +48,25 @@ export default function Landing() {
         <span></span>
       </section>
 
-      <section id="landing-page-5"></section>
-      <section id="landing-page-6"></section>
+      <section id="landing-page-5">
+        <div id="landing-p5-cont1">
+          <span id="landing-p5-c1-head">
+            <p>New Arrivals</p>
+            <p>Trending Products</p>
+            <p>Best Selling</p>
+          </span>
+
+          <span className="landing-p5-c1"></span>
+          <span className="landing-p5-c1"></span>
+          <span className="landing-p5-c1"></span>
+        </div>
+
+        <div></div>
+      </section>
+
+      <div id="landing-page-6">
+        <div></div>
+      </div>
       <section id="landing-page-7"></section>
       <section id="landing-page-8"></section>
       <section id="landing-page-9"></section>
