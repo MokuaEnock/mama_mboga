@@ -65,7 +65,20 @@ export default function Landing() {
       </section>
 
       <div id="landing-page-6">
-        <div></div>
+        <div>
+          <h3>Best Deals This Week</h3>
+          <p>
+            Discover heavily discounted products this week and we will dliver
+            them to your doorstep
+          </p>
+          <span className="countdown">
+            <span></span>
+            <span></span>
+            <span></span>
+          </span>
+
+          <button>Shop now</button>
+        </div>
       </div>
       <section id="landing-page-7"></section>
       <section id="landing-page-8"></section>
