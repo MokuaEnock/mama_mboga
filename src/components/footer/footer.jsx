@@ -1,5 +1,10 @@
 import "./footer.css";
 
 export default function Footer() {
-  return <footer className="footer">This is the footer</footer>;
+  return (
+    <footer id="footer">
+      <div></div>
+      <span></span>
+    </footer>
+  );
 }
